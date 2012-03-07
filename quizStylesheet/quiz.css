@@ -1,0 +1,55 @@
+body,div.wrapper,div.header,div.questionDiv
+{
+	margin:0px;
+	padding:0px;
+	font-family:'Comic Sans Ms',cursive;
+}
+
+div.wrapper
+{
+	width:100%;
+}
+
+div.contentWrapper
+{
+	margin:0px auto;
+	width:1024px;
+	overflow:hidden;
+}
+
+div.header
+{
+	width:99%;
+	border:3px solid #472400;
+	border-radius:12px;
+}
+
+div.headerText
+{
+	margin-left:380px;
+	color:#A38566;
+}
+
+div.questionDiv
+{
+	margin-top:50px;
+}
+
+td
+{
+	padding:5px;
+}
+td#scndCol
+{
+	float:left;
+}
+
+div.forward
+{
+	padding:10px;
+}
+
+button
+{
+	font-family:'Comic Sans Ms',cursive;
+}
